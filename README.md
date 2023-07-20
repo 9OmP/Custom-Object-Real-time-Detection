@@ -22,7 +22,7 @@ The YOLO algorithm works by dividing the input image into a grid and predicting 
 ## Getting Started
 To run the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `[git clone (https://github.com/9OmP/Custom-Object-Real-time-Detection.git)`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the YOLOv8 model weights and place them in the appropriate directory.
 4. Update the Mailjet API credentials in the script.
