@@ -3,7 +3,7 @@
 ![banner (1)](https://github.com/9OmP/Custom-Object-Real-time-Detection/assets/104563841/0bc452cc-939b-457d-b874-3133569c0ac7)
 
 ## Description
-This project utilizes the YOLO (You Only Look Once) object detection algorithm to detect and classify objects in real-time video streams. YOLO is an advanced deep learning architecture that can simultaneously predict multiple object bounding boxes and their class probabilities in a single forward pass, making it highly efficient for real-time applications.
+This project utilizes the YOLO (You Only Look Once) object detection algorithm to detect and classify objects in real-time video streams. YOLO is an advanced deep learning architecture that can simultaneously predict multiple object bounding boxes and their class probabilities in a single forward pass, making it highly efficient for real-time applications.It sends a message containing the harmful object and the no. of person around with it.
 
 ## How It Works
 The YOLO algorithm works by dividing the input image into a grid and predicting bounding boxes and class probabilities for each grid cell. The model then refines the predicted boxes using anchor boxes and confidence scores to determine object presence. The highest-confidence predictions are selected as final detections.
