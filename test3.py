@@ -30,12 +30,12 @@ last_alert_time = 0
 person_count = 0
 
 # Mailgun API credentials
-MAILGUN_API_KEY = '102c75d8-0d6550e1'
-MAILGUN_DOMAIN_NAME = 'sandboxbc291829653647869a2d4b921ede76b1.mailgun.org'
+MAILGUN_API_KEY = '$$$$$$$$$$$'
+MAILGUN_DOMAIN_NAME = '############'
 
 # Email parameters
-FROM_EMAIL_ADDRESS = 'sandboxbc291829653647869a2d4b921ede76b1.mailgun.org'
-TO_EMAIL_ADDRESS = 'ompatil16022002@gmail.com'
+FROM_EMAIL_ADDRESS = '################'
+TO_EMAIL_ADDRESS = '###################'
 EMAIL_SUBJECT = 'Harmful Object detected!'
 
 
