@@ -2,8 +2,6 @@
 
 ![banner (1)](https://github.com/9OmP/Custom-Object-Real-time-Detection/assets/104563841/0bc452cc-939b-457d-b874-3133569c0ac7)
 
-
-
 ## Description
 This project utilizes the YOLO (You Only Look Once) object detection algorithm to detect and classify objects in real-time video streams. YOLO is an advanced deep learning architecture that can simultaneously predict multiple object bounding boxes and their class probabilities in a single forward pass, making it highly efficient for real-time applications.
 
@@ -18,6 +16,9 @@ The YOLO algorithm works by dividing the input image into a grid and predicting 
 - Person counting in the frame
 - OpenCV integration for visualizations and annotations
 
+![ae lavlya](https://github.com/9OmP/Custom-Object-Real-time-Detection/assets/104563841/83920396-f92b-4019-9904-267b3d81e1fa)
+
+
 ## Getting Started
 To run the project, follow these steps:
 
@@ -26,7 +27,7 @@ To run the project, follow these steps:
 3. Download the YOLOv8 model weights and place them in the appropriate directory.
 4. Update the Mailjet API credentials in the script.
 5. Connect your RTSP camera or use the webcam for live stream detection.
-6. Run the script: `python your_script.py`
+6. Run the script: `test5.py, test7.py, test8.py`
 
 ## Customization
 Feel free to modify the classNames list to add or remove object classes based on your specific use case. Additionally, you can customize the email alert content and time intervals for alerts.
