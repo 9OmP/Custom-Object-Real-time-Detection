@@ -1,6 +1,7 @@
 # YOLO-Based Object Detection Project
 
-![Project Banner](path/to/banner.png)
+![banner](https://github.com/9OmP/Custom-Object-Real-time-Detection/assets/104563841/d7368de4-d204-4bb0-91a4-141b5a4e9865)
+
 
 ## Description
 This project utilizes the YOLO (You Only Look Once) object detection algorithm to detect and classify objects in real-time video streams. YOLO is an advanced deep learning architecture that can simultaneously predict multiple object bounding boxes and their class probabilities in a single forward pass, making it highly efficient for real-time applications.
