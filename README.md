@@ -1,6 +1,7 @@
 # YOLO-Based Object Detection Project
 
-![banner](https://github.com/9OmP/Custom-Object-Real-time-Detection/assets/104563841/d7368de4-d204-4bb0-91a4-141b5a4e9865)
+![banner (1)](https://github.com/9OmP/Custom-Object-Real-time-Detection/assets/104563841/0bc452cc-939b-457d-b874-3133569c0ac7)
+
 
 
 ## Description
